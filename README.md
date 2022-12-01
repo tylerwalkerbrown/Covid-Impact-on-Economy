@@ -1,1 +1,7 @@
-# Covid-Impact-on-Economy
+# Covid-Impact-on-Economy![output_14_0](https://user-images.githubusercontent.com/94020684/204974299-1da8c1fa-7ef3-4610-a6e9-4374bdd30e79.png)
+![output_18_0](https://user-images.githubusercontent.com/94020684/204974302-8ab45381-1dc4-4adb-9022-9a8052efc27e.png)
+![output_19_1](https://user-images.githubusercontent.com/94020684/204974304-322939fd-6b6a-4558-95b5-3f42d3ec9a96.png)
+![output_27_1](https://user-images.githubusercontent.com/94020684/204974305-c1313cf0-eb3b-4710-9aca-2486fbae4f7b.png)
+![output_30_1](https://user-images.githubusercontent.com/94020684/204974310-00d6eb1d-9f51-4a5c-95e3-f9d1f77f8e8f.png)
+![output_31_1](https://user-images.githubusercontent.com/94020684/204974311-0eae03fa-998b-4216-8a51-32c6beefe955.png)
+![output_38_1](https://user-images.githubusercontent.com/94020684/204974312-7b08db91-d5c2-4389-956d-a60403a2579e.png)
